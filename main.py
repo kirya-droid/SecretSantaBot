@@ -2,7 +2,7 @@ import telebot
 import random
 import sqlite3
 
-bot = telebot.TeleBot('5681456371:AAEiQelZJqNzEwUhr89cXjujhVFdci1MhmY')
+bot = telebot.TeleBot('Yor token')
 
 dreams = {}
 
